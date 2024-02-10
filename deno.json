@@ -27,7 +27,7 @@
     "@preact/signals": "https://esm.sh/*@preact/signals@1.2.1",
     "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.5.0",
     "$std/": "https://deno.land/std@0.211.0/",
-    "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+    "three": "https://esm.sh/three@0.161.0",
     "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
   },
   "compilerOptions": {
